@@ -1,4 +1,4 @@
-# List of Solutions
+# Leetcode Solutions
 ## [Problems](https://leetcode.com/problemset/all/)
 | problems | solutions |
 | :------: | :-------: |
