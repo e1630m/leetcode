@@ -1,8 +1,3 @@
-# 5. Longest Palindromic Substring
-# https://leetcode.com/problems/longest-palindromic-substring/
-# 180 / 180 test cases passed
-# runtime: 928ms, beats 84.04% of python3 submissions
-# memory usage: 14.4mb, beats 36.08% of python3 submissions
 class Solution:
     def __init__(self):
         self.start = 0
