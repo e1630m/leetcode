@@ -1,8 +1,3 @@
-# 2. Add Two Numbers
-# https://leetcode.com/problems/add-two-numbers
-# 1568 / 1568 test cases passed
-# runtime: 64ms, beats 91.14% of python3 submissions
-# memory usage: 14.3mb, beats 71.57% of python3 submissions
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
