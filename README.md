@@ -1,10 +1,12 @@
 # [Leetcode](https://leetcode.com/) Solutions
 ## [Problems](https://leetcode.com/problemset/all/)
-| problems | solutions |
-| :------: | :-------: |
-| [1. Two Sum](https://leetcode.com/problems/two-sum)                                                                                 | [py](./problems/p0001.py) |
-| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)                                                                 | [py](./problems/p0002.py) |
-| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [py](./problems/p0003.py) |
-| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)                                         | [py](./problems/p0004.py) |
-| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                                     | [py](./problems/p0005.py) |
-| [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)                                                | [py](./problems/p1137.py) |
+| problems | solutions | runtimes | mem |
+| :------: | :-------: | :------: | :-: |
+| [1. Two Sum](https://leetcode.com/problems/two-sum)                                                                                 | [py](./problems/p0001.py) |  432ms (37.54%) |  15.1MB (63.29%)  |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)                                                                 | [py](./problems/p0002.py) |   64ms (91.14%) |  14.3MB (71.57%)  |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)   | [py](./problems/p0003.py) |   60ms (79.49%) |  14.2MB (79.34%)  |
+| [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)                                         | [py](./problems/p0004.py) |   80ms (98.27%) |  14.5MB (53.70%)  |
+| [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)                                     | [py](./problems/p0005.py) |  928ms (84.04%) |  14.4MB (36.08%)  |
+| [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)                                                             | [py](./problems/p0006.py) |   52ms (91.78%) |  14.2MB (87.30%)  |
+| [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)                                                | [py](./problems/p1137.py) |   24ms (95.40%) |  14.3MB (41.36%)  |
+* runtimes and memory usages are based on python submissions.
