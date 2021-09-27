@@ -11,4 +11,5 @@
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)                                                 | [py](./problems/p0929.py) |   48ms (87.08%) |  14.2MB (84.63%)  |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)                                                | [py](./problems/p1137.py) |   24ms (95.40%) |  14.3MB (41.36%)  |
 | [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)                                | [py](./problems/p1337.py) |  104ms (89.47%) |  14.4MB (91.87%)  |
+| [1630. Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays)                                                    | [py](./problems/p1630.py) |  176ms (96.97%) |  14.5MB (36.03%)  |
 * runtimes and memory usages are based on python submissions.
