@@ -10,6 +10,7 @@
 | [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)                                                             | [py](./problems/p0006.py) |   52ms (91.78%) |  14.2MB (87.30%)  | medium |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer)                                                                 | [py](./problems/p0007.py) |   24ms (97.58%) |  14.0MB (98.34%)  |  easy  |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)                                                 | [py](./problems/p0008.py) |   28ms (95.19%) |  14.3MB (56.03%)  | medium |
+| [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)                                                             | [py](./problems/p0009.py) |   36ms (99.89%) |  14.2MB (47.90%)  |  easy  |
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)                                                 | [py](./problems/p0929.py) |   48ms (87.08%) |  14.2MB (84.63%)  |  easy  |
 | [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)                                                | [py](./problems/p1137.py) |   24ms (95.40%) |  14.3MB (41.36%)  |  easy  |
 | [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)                                | [py](./problems/p1337.py) |  104ms (89.47%) |  14.4MB (91.87%)  |  easy  |
